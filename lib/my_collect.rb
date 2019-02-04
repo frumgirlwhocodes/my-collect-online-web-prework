@@ -4,4 +4,5 @@ def my_collect(array)
  while i < array.size
 new_array << yeild(array[i]) 
 end 
-
+new_array
+end 
